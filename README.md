@@ -1,5 +1,5 @@
 # Data Manipulation with dplyr and reshape2
-*Jessica McCloskey*
+*Jessica McCloskey* 
 For September 20, 2017
 
 
