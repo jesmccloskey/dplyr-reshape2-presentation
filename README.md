@@ -5,7 +5,7 @@ Eventually, I will post the slides, example code, and maybe some other resources
 ## Getting Set Up to Follow Along 
 
 1. Install R and optionally RStudio -- I use RStudio but it's not necessary for this presentation
-2. Run `install.packages("dplyr")' and `install.packages("reshape2")' in R or RStudio (which ever you plan to use) to install those packages
+2. Run 'install.packages("dplyr")' and 'install.packages("reshape2")' in R or RStudio (which ever you plan to use) to install those packages
 3. Access example data as described below
 4. Import example data (this should only take a minute once you have the directory path and file name figured out)
 
