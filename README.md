@@ -1,6 +1,7 @@
 # Data Manipulation with dplyr and reshape2
 *Jessica McCloskey* 
 For September 20, 2017
+---
 
 
 Eventually, I will post the slides, example code, and maybe some other resources here.
