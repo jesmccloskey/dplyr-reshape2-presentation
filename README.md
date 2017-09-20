@@ -1,7 +1,12 @@
 # Data Manipulation with dplyr and reshape2
 
+This file contains the slides and code from my presentation. The original sildes are in the html file. There's also an included pdf version.
 
-Eventually, I will post the slides, example code, and maybe some other resources here.
+Code files:
+1. `import.R` was used to import and format the CPS data accessed as described below. It uses the raw CPS data, and `fips2.csv` also included here
+2. `analysis.R` uses the data from `import.R`, creates the small example dataset used in the slide examples, and has the larger dataset CPS example code, including the code to make the lifecycle graph
+
+
 
 ## Getting Set Up to Follow Along 
 
@@ -73,7 +78,9 @@ df$wi <- df$pwsswgt/10000000
 ```
 
 
+## Questions, Comments?
 
+Email me at jesmccloskey@gmail.com.
 
 
 
