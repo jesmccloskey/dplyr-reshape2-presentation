@@ -6,7 +6,7 @@ Code files:
 1. `import.R` was used to import and format the CPS data accessed as described below. It uses the raw CPS data, and `fips2.csv` also included here
 2. `analysis.R` uses the data from `import.R`, creates the small example dataset used in the slide examples, and has the larger dataset CPS example code, including the code to make the lifecycle graph
 
-
+The reshape reference page is from [here](https://www.r-statistics.com/2012/01/aggregation-and-restructuring-data-from-r-in-action/). Note that when using reshape2, the `cast()` references on that page should be switched to `dcast()`. The other two reference pages are from the RStudio website.
 
 ## Getting Set Up to Follow Along 
 
